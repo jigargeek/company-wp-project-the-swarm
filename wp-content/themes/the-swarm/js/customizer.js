@@ -8,7 +8,7 @@
  */
 
 
-//Hello Jigar GEEK Test
+//Hello Jigar GEEK
 
 ( function( $ ) {
 	// Site title and description.
